@@ -1,0 +1,25 @@
+.seccion-fondo {
+  background-image: url('img/plomero.jpg');
+  background-attachment: fixed; /* esto hace que quede fija */
+  background-size: cover;      /* ocupa todo el espacio */
+  background-position: center; /* centrada */
+  height: 80vh;                /* altura de la sección */
+}
+
+.textoservicios {
+  color: white;
+  text-align: center;
+
+}
+
+.card-body  {
+  background-color:  #007fff ;
+  color: white;
+}
+.separador {
+  height: 60px; /* probá 40px, 60px, 80px según te guste */
+   background-image: url('img/plomero.jpg');
+  background-attachment: fixed; /* esto hace que quede fija */
+  background-size: cover;      /* ocupa todo el espacio */
+  background-position: center; /* centrada */
+}
